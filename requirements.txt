@@ -1,0 +1,13 @@
+torch==2.2.1
+torchvision==0.17.1
+transformers==4.38.2
+sentence-transformers==2.5.1
+faiss-cpu==1.7.4
+pillow==10.2.0
+gradio==4.21.0
+numpy==1.26.4
+pydantic==2.6.1
+pydantic-settings==2.1.0
+python-dotenv==1.0.1
+structlog==24.1.0
+pytest==8.0.1
